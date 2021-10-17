@@ -1,0 +1,93 @@
+table {
+    width: 800px;
+    margin: 0 auto;
+    background: #6699ff;   
+    border-left: 1px solid #6699ff; /* Рамка вокруг ячеек */
+    border-right: 1px solid #6699ff; 
+}
+h3{
+   margin-top: 0px;
+   margin-bottom: 20px;
+   font-size: x-large;
+}
+h4{
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+td{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+img
+  {
+  width: 100px;
+  height: 187px;
+  object-fit: contain;
+  object-position: left bottom;
+  }
+
+body {
+    font-family: Verdana;
+    color: #06389e;
+    background-color: #e6e6e6;
+    margin-top: 0;
+}
+h2,
+h3,
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #494d56;
+    
+}
+#shapka,
+#slogan {
+    font-family: Arial;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+#slogan {
+    padding: 5px 0 5px 0;
+}
+.tr{
+   background: rgb(255, 255, 255);
+  
+}
+ul,
+.content {
+    font-size: 0.7em;
+}
+ul {
+    font-family: Tahoma;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+}
+.content {
+    padding: 10px 15px 10px 15px;
+    text-align: justify;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.foot {
+    color: white;
+    text-align: center;
+    background-color: #6699ff;
+ }
+
+ol {
+    font-size: 0.8em;
+}
+ol li a {
+    color: gray;
+}
+.a {
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+.a1{
+    color:black;
+    font-weight: bold;
+}
+
